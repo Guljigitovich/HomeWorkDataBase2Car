@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d24a1ed-686c-40e8-8c52-bb3e45b1890c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K89apBzKxcMm7qt9Kv3NqL0LNj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d24a1ed-686c-40e8-8c52-bb3e45b1890c" name="Changes" comment="" />
+      <created>1673345410448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673345410448</updated>
+      <workItem from="1673345411591" duration="272000" />
+      <workItem from="1673345718694" duration="171000" />
+      <workItem from="1673345929127" duration="257000" />
+      <workItem from="1673346204179" duration="130000" />
+      <workItem from="1673346350881" duration="59000" />
+      <workItem from="1673346467889" duration="111000" />
+      <workItem from="1673346648776" duration="14000" />
+      <workItem from="1673346674001" duration="297000" />
+      <workItem from="1673346998927" duration="257000" />
+      <workItem from="1673347295856" duration="236000" />
+      <workItem from="1673347564668" duration="359000" />
+      <workItem from="1673348072062" duration="343000" />
+      <workItem from="1673348591049" duration="637000" />
+      <workItem from="1673349347369" duration="266000" />
+      <workItem from="1673349906660" duration="125000" />
+      <workItem from="1673350092794" duration="35000" />
+      <workItem from="1673350416284" duration="150000" />
+      <workItem from="1673350665333" duration="60000" />
+      <workItem from="1673350752690" duration="173000" />
+      <workItem from="1673350951280" duration="1378000" />
+      <workItem from="1673352430751" duration="577000" />
+      <workItem from="1673353059048" duration="543000" />
+      <workItem from="1673353620682" duration="1645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
